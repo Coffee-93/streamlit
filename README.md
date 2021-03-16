@@ -7,5 +7,5 @@ To deploy apps onto streamlit.io
 ## Directions
 1. Open up CLI.
 2. Navigate to correct directory where application is stored.
-3. Run ```streamlit run iris_app.py```.
+3. Run ```streamlit run iris_app.py```
 4. Access application on localhost.
